@@ -1,4 +1,4 @@
-## Welcome to the page
+# Welcome to the page
 
 here is everything, and nothing
 
