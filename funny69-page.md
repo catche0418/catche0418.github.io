@@ -1,3 +1,3 @@
 layout: page
-title: "my contact"
+title: "contact"
 permalink: /about/ccontact/
